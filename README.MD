@@ -1,17 +1,23 @@
 # Market Dashboard - PowerBI Project
 
-![Dashboard Preview](./assets/dashboard_preview.png)
+![Stock Dashboard Preview](./Assets/Stock_Dashboard.png)
+![Stock Dashboard Preview](./Assets/Crypto_Dashboard.png)
+![Stock Dashboard Preview](./Assets/ETFs_Dashboard.png)
+
 
 ## 📊 Overview
 
-This project is a comprehensive Market Dashboard created using PowerBI. It provides real-time insights into stocks, cryptocurrencies, and ETFs, with a focus on both aesthetic design and functionality. The dashboard supports both light and dark modes and features interactive graphs for historical data analysis.
+This Power BI dashboard provides a comprehensive view of stocks, cryptocurrencies, and ETFs, offering users a visually appealing and highly functional tool for financial analysis. The dashboard supports both light and dark modes, catering to different aesthetic preferences. It includes a dynamic graph that displays historical data, scraped using a custom Python script from Yahoo Finance, ensuring accurate and up-to-date information.
 
 ## 🌟 Features
 
-- **Light & Dark Mode:** Toggle between light and dark themes to suit your preference.
-- **Interactive Historical Data:** Visualize historical data for stocks, cryptocurrencies, and ETFs with interactive graphs.
-- **Advanced DAX Expressions:** Custom columns created using advanced DAX expressions for deeper insights.
-- **Python Data Scraping:** Historical data is sourced using a Python script from Yahoo Finance, ensuring up-to-date and accurate information.
+- **Light & Dark Mode:** Aesthetic flexibility with a toggle between light and dark themes.
+- **Comprehensive Market Analysis:** 
+  - **Stocks Dashboard:** Detailed stock information, including real-time data and historical trends.
+  - **Crypto Dashboard:** Insights into the top cryptocurrencies, including price changes and market caps.
+  - **ETFs Dashboard:** A complete overview of major ETFs, their performances, and historical data.
+- **Historical Data Visualization:** Graphical representation of historical data, enabling in-depth trend analysis.
+- **Advanced DAX Expressions:** Custom columns and measures created using advanced DAX expressions to enhance data analysis and reporting.
 
 ## 🛠️ Tools & Technologies
 
@@ -22,11 +28,11 @@ This project is a comprehensive Market Dashboard created using PowerBI. It provi
 
 ## 📷 Screenshots
 
-![Light Mode](./assets/light_mode.png)
-![Dark Mode](./assets/dark_mode.png)
+![Light Mode](./Assets/Light_Mode.png)
+![Dark Mode](./Assets/Dark_Mode.png)
 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/market-dashboard-powerbi.git
+   git clone https://github.com/RaghavArora2/Market-Dashboard-Project-in-Power-BI
