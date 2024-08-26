@@ -24,7 +24,6 @@ This project is a comprehensive Market Dashboard created using PowerBI. It provi
 
 ![Light Mode](./assets/light_mode.png)
 ![Dark Mode](./assets/dark_mode.png)
-![Historical Data Graph](./assets/historical_data_graph.png)
 
 ## 🚀 Getting Started
 
