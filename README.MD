@@ -1,10 +1,5 @@
 # Market Dashboard - PowerBI Project
 
-![Stock Dashboard Preview](./Assets/Stock_Dashboard.png)
-![Stock Dashboard Preview](./Assets/Crypto_Dashboard.png)
-![Stock Dashboard Preview](./Assets/ETFs_Dashboard.png)
-
-
 ## 📊 Overview
 
 This Power BI dashboard provides a comprehensive view of stocks, cryptocurrencies, and ETFs, offering users a visually appealing and highly functional tool for financial analysis. The dashboard supports both light and dark modes, catering to different aesthetic preferences. It includes a dynamic graph that displays historical data, scraped using a custom Python script from Yahoo Finance, ensuring accurate and up-to-date information.
@@ -28,11 +23,46 @@ This Power BI dashboard provides a comprehensive view of stocks, cryptocurrencie
 
 ## 📷 Screenshots
 
-![Light Mode](./Assets/Light_Mode.png)
-![Dark Mode](./Assets/Dark_Mode.png)
+### Stock, Crypto, and ETFs Dashboards
+<p align="center">
+  <img src="./Assets/Stock_Dashboard.png" alt="Stock Dashboard" width="400"/>
+  <img src="./Assets/Crypto_Dashboard.png" alt="Crypto Dashboard" width="400"/>
+  <img src="./Assets/ETFs_Dashboard.png" alt="ETFs Dashboard" width="400"/>
+</p>
+
+### Light & Dark Modes
+<p align="center">
+  <img src="./Assets/Light_Mode.png" alt="Light Mode" width="400"/>
+  <img src="./Assets/Dark_Mode.png" alt="Dark Mode" width="400"/>
+</p>
 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RaghavArora2/Market-Dashboard-Project-in-Power-BI
+   git clone https://github.com/RaghavArora2/Market-Dashboard-Project-in-Power-BI.git
+   ```
+
+2. **Open the Power BI File:** Open the `.pbix` file in Power BI Desktop.
+
+3. **Run the Python Script:** Execute the Python script to scrape the latest historical data from Yahoo Finance.
+
+4. **Update the Data Source:** Load the updated data into the Power BI dashboard.
+
+## 📈 Future Improvements
+
+- **Real-time Data Integration:** Integrate APIs to fetch real-time data for stocks, cryptocurrencies, and ETFs.
+- **User Customization:** Allow users to select specific stocks, cryptocurrencies, or ETFs to monitor.
+- **Mobile Optimization:** Enhance the dashboard for better viewing and interaction on mobile devices.
+
+## 🤝 Contributing
+
+If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📬 Contact
+
+For any inquiries, please reach out to me on [LinkedIn](https://www.linkedin.com/in/raghav-arora2003/).
